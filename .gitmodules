@@ -1,0 +1,3 @@
+[submodule "include/Pozyx-Linux-library"]
+	path = include/Pozyx-Linux-library
+	url = https://github.com/heivi/Pozyx-Linux-library.git
